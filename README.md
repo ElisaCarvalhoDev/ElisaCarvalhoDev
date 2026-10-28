@@ -21,14 +21,9 @@ Tenho interesse em desenvolvimento de software, aplicações mobile e web, intel
   <img align="center" alt="Elisa-GitHub" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-### 💡 Projetos e experiências
-
-- **Desenvolvimento mobile - Estágio:** criação de funcionalidades com Flutter e Dart, integração com serviços e publicação de aplicativos.
-- **Desenvolvimento de sistemas - Estágio:** experiência com TypeScript, APIs, bancos de dados e sustentação de aplicações.
-- **Iniciação científica:** desenvolvimento de projetos envolvendo tecnologia, educação, empreendedorismo e jogos sérios.
-- **Inteligência artificial e visão computacional:** exploração de soluções com Python e OpenCV.
 
 
+<br>
 
 <div>
   <a href="https://www.linkedin.com/in/elisa-silva-carvalho-967b89213/" target="_blank">
