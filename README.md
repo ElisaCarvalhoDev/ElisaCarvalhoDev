@@ -1,16 +1,41 @@
-## Hi there 👋
+# Oii! Eu sou a Elisa Carvalho 👋
 
-<!--
-**ElisaCarvalhoDev/ElisaCarvalhoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas de Informação na UNIFEI** e técnica em Informática pelo IFSULDEMINAS.
 
-Here are some ideas to get you started:
+Atualmente, trabalho como estagiária na área de tecnologia, desenvolvendo funcionalidades para aplicações mobile com Flutter e Dart, atuando com TypeScript e realizando sustentação de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em desenvolvimento de software, aplicações mobile e web, inteligência artificial e soluções tecnológicas que gerem impacto real. Durante minha formação técnica, participei de projetos de iniciação científica envolvendo desenvolvimento de aplicativos, jogos sérios e tecnologia aplicada à educação e ao empreendedorismo.
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Elisa-Flutter" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Elisa-Dart" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Elisa-TypeScript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Elisa-JavaScript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Elisa-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Elisa-C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Elisa-HTML5" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Elisa-CSS3" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Elisa-Firebase" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Elisa-SQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Elisa-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Elisa-GitHub" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
+
+### 💡 Projetos e experiências
+
+- **Desenvolvimento mobile - Estágio:** criação de funcionalidades com Flutter e Dart, integração com serviços e publicação de aplicativos.
+- **Desenvolvimento de sistemas - Estágio:** experiência com TypeScript, APIs, bancos de dados e sustentação de aplicações.
+- **Iniciação científica:** desenvolvimento de projetos envolvendo tecnologia, educação, empreendedorismo e jogos sérios.
+- **Inteligência artificial e visão computacional:** exploração de soluções com Python e OpenCV.
+
+
+
+<div>
+  <a href="https://www.linkedin.com/in/elisa-silva-carvalho-967b89213/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:elisacarvalho336@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
