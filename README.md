@@ -34,3 +34,11 @@ Tenho interesse em desenvolvimento de software, aplicações mobile e web, intel
   </a>
 </div>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElisaCarvalhoDev/ElisaCarvalhoDev/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElisaCarvalhoDev/ElisaCarvalhoDev/output/github-snake.svg">
+  <img alt="Animação da cobrinha do GitHub" src="https://raw.githubusercontent.com/ElisaCarvalhoDev/ElisaCarvalhoDev/output/github-snake.svg">
+</picture>
+
+
