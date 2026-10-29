@@ -1,4 +1,4 @@
-# Oii! Eu sou a Elisa Carvalho 👋
+# Oii! Eu sou Elisa Carvalho 👋
 
 Estudante de **Sistemas de Informação na UNIFEI** e técnica em Informática pelo **IFSULDEMINAS**.
 
